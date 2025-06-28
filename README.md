@@ -53,12 +53,13 @@ I've also completed several cybersecurity-focused courses on [Google/Coursea](ht
 - **PCAP & Network Analysis** – Wireshark captures and investigation notes  
 - **TryHackMe & Labs Notes** – Summaries and lessons learned from hands-on challenges  
 
-## 🛠️ Hands-On Skills
+## 🛠️ Hands-On Skills & Experience
 
 - Virtual machines (Kali Linux, Parrot OS, Windows 10)
 - Basic scripting (Bash, Python)
 - Wireshark, Nmap, Burp Suite
 - Password cracking & privilege escalation (labs)
+- Experience with SIEM tools: Splunk, Elastic (ELK), and OSSIM *(lab-based)*
 
 ## 🔗 Connect with Me
 
