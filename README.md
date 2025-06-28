@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Technical Writer/Documentation Specialist tr
 
 - Completed the **Google Cybersecurity Professional Certificate**  
 - Passionate about hands-on learning through platforms like **TryHackMe**  
-- 🛠Building skills in **SIEM tools (Splunk, ElasticSearch)**, **Threat Hunting**, and **Network Traffic Analysis**  
+- Building skills in **SIEM tools (Splunk, ElasticSearch)**, **Threat Hunting**, and **Network Traffic Analysis**  
 - Leveraging my strong background in technical writing to create clear, actionable cybersecurity documentation  
 
 ## 🎯 Career Focus
