@@ -48,6 +48,7 @@ I've also completed several cybersecurity-focused courses on [Google/Coursea](ht
 ## 📂 What You’ll Find Here
 
 - [**SOC Analyst Playbooks**] – Step-by-step guides for common security incidents
+  * [Phising Email Response](https://github.com/ahnpj/SOC-Analyst_Playbook/blob/main/playbooks/phishing_email_response.md)
 - **Detection Engineering** – Sample detection rules, Splunk queries, and Sigma rules  
 - **Threat Hunting Reports** – Research and analysis on malware and attack techniques  
 - **PCAP & Network Analysis** – Wireshark captures and investigation notes  
