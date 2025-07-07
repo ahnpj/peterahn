@@ -48,7 +48,14 @@ I've also completed several cybersecurity-focused courses on [Google/Coursea](ht
 ## 📂 What You’ll Find Here
 
 - **SOC Analyst Playbooks** – Step-by-step guides for common security incidents
-  * [Phising Email Response](https://github.com/ahnpj/soc-analyst-portfolio/blob/main/playbooks/email-phishing-playbook) (Security & Compliance; Incident Response)
+  * [Phising Email Response](https://github.com/ahnpj/soc-analyst-portfolio/blob/main/playbooks/email-phishing-playbook) (Security Awareness & Incident Response)
+  * [Unauthorized Access Detection](https://github.com/ahnpj/soc-analyst-portfolio/blob/main/playbooks/unauthorized-access-detection-playbook.md) (Endpoint Security & Policy Enforcement)
+  * [Suspicious Network Traffic](https://github.com/ahnpj/soc-analyst-portfolio/blob/main/playbooks/suspicious-network-traffic-analysis-playbook.md) (Network Security & Threat Hunting)
+  * [Malware Detection and Response](https://github.com/ahnpj/soc-analyst-portfolio/blob/main/playbooks/malware-detection-response-playbook.md) (Incident Response & Endpoint Security)
+  * [Alert Triage and Escalation](https://github.com/ahnpj/soc-analyst-portfolio/blob/main/playbooks/alert-triage-escalation-playbook.md) (Security Operations & Incident Management)
+  * [Data Exfiltration](https://github.com/ahnpj/soc-analyst-portfolio/blob/main/playbooks/data-exfiltration-investigation-playbook.md) (Data Protection & Incident Response)
+  * [Unauthorized USB Device Detection](https://github.com/ahnpj/soc-analyst-portfolio/blob/main/playbooks/malware-detection-response-playbook.md) (Incident Response & Endpoint Security)
+  * [Account Lockout](https://github.com/ahnpj/soc-analyst-portfolio/blob/main/playbooks/account-lockout-investigation-playbook.md) (Identity & Access Management (IAM) & Incident Response)
 - **Incident Reports** –  Collection of real-world-style incident report examples
 - **Detection Engineering** – Sample detection rules, Splunk queries, and Sigma rules  
 - **Threat Hunting Reports** – Research and analysis on malware and attack techniques  
