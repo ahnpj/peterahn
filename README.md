@@ -21,14 +21,16 @@ I'm passionate about cybersecurity, especially in the areas of:
 Currently pursuing entry-level certifications and practical experience to build a solid foundation in the field.
 
 ## 📂 Certifications & Badges
-I've completed several cybersecurity-focused rooms on [TryHackMe](https://tryhackme.com/) and earned multiple certificates and badges, including:
+1) Successfully completed the CompTIA Security+ (SY0-701) certification, demonstrating validated knowledge of core cybersecurity principles and best practices.
+
+2) I've completed several cybersecurity-focused rooms on [TryHackMe](https://tryhackme.com/) and earned multiple certificates and badges, including:
 - Introduction to Cybersecurity
 - Pre-Security
 - Networking Fundamentals
 - Linux Fundamentals
 - Junior Penetration Tester Path *(in progress)*
   
-I've also completed several cybersecurity-focused courses on [Google/Coursea](https://www.coursera.org/) and earned multiple certificates and badges, including:
+3) I've also completed several cybersecurity-focused courses on [Google/Coursea](https://www.coursera.org/) and earned multiple certificates and badges, including:
 - [Introduction to Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/CR6J4M8EZYYE?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 - Pre-Security
 - Networking Fundamentals
@@ -39,7 +41,7 @@ I've also completed several cybersecurity-focused courses on [Google/Coursea](ht
 
 ## 🔐 Currently Working On
 
-- Studying for **CompTIA Security+ (SY0-701)** certification
+- Currently pursuing the Blue Team Level 1 (BTL1) certification to further strengthen hands-on defensive security and SOC analyst skills.
 - Deepening skills in:
   - Network security
   - Identity and access management
