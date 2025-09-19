@@ -25,7 +25,7 @@ Currently pursuing entry-level certifications and practical experience to build 
 
 2) I've completed several cybersecurity-focused rooms on [TryHackMe](https://tryhackme.com/) and earned multiple certificates and badges, including:
 - Introduction to Cybersecurity
-- Pre-Security
+- [Pre-Security](https://tryhackme.com/certificate/THM-NHPYA3WOHM)
 - Networking Fundamentals
 - Linux Fundamentals
 - Junior Penetration Tester Path *(in progress)*
