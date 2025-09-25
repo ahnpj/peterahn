@@ -1,6 +1,11 @@
 # 👋 Hi, I’m Peter!
 
-Welcome to my GitHub profile! I'm a Technical Writer/Documentation Specialist transitioning into cybersecurity. With a strong background in explaining complex technical concepts clearly and effectively, I’m now channeling those skills into security research, hands-on training, and continuous learning. My focus areas include Security Analysis, Threat Detection, and Incident Response.
+Welcome to my GitHub profile! I'm a Technical Writer/Documentation Specialist transitioning into cybersecurity. With a strong background in explaining complex technical concepts clearly and effectively, I’m now channeling those skills into security research, hands-on training, and continuous learning. My focus areas include Security Analysis, Threat Detection, and Incident Response.  
+  
+[ATS-friendly resume attached](https://drive.google.com/file/d/1bNds8Dv521gsSmGIH0mNrXGsYEnKmcE5/view?usp=sharing) | [Styled resume version available](https://drive.google.com/file/d/1eMOJOVC7e0ZUTUJcjgh6WppNYUowpzUq/view)
+
+
+
 
 ## 🛡️ About Me
 
