@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Technical Writer/Documentation Specialist transitioning into cybersecurity. With a strong background in explaining complex technical concepts clearly and effectively, I’m now channeling those skills into security research, hands-on training, and continuous learning. My focus areas include Security Analysis, Threat Detection, and Incident Response.  
   
-[ATS-friendly resume attached](https://drive.google.com/file/d/1bNds8Dv521gsSmGIH0mNrXGsYEnKmcE5/view?usp=sharing) | [Visual resume](https://drive.google.com/file/d/1eMOJOVC7e0ZUTUJcjgh6WppNYUowpzUq/view?usp=sharing) ***(click to view)***
+[ATS-friendly resume attached](https://drive.google.com/file/d/1bNds8Dv521gsSmGIH0mNrXGsYEnKmcE5/view?usp=sharing) | [Visual resume](https://drive.google.com/file/d/1evLQsjSR4AOMwl3O7ydB1nE4reOhAhTD/view?usp=sharing) ***(click to view)***
 
 
 
