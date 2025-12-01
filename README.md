@@ -2,6 +2,12 @@
 
 I’m a Senior Technical Writer shifting my career toward cybersecurity, something I’ve slowly gravitated to after years of breaking down systems, documenting behavior, and asking “why did it do that?” for a living. Writing has always forced me to understand technology on a deeper level; now I’m applying that same curiosity to security analysis, threat detection, and incident response.
 
+I’ve always had a habit of taking things apart—sometimes literally, sometimes just to understand why a system behaves the way it does. Over time, that curiosity pulled me deeper into cybersecurity. I found myself looking at logs, network traffic, and weird little system quirks just to figure out “what’s actually going on here?”
+
+This repository is basically the result of that curiosity turning into a real career direction. I’m working through hands-on labs, small investigations, detection ideas, and scripts that help me understand security from the ground up. Nothing here is a quick copy-paste; each project is something I walked through step by step so I could actually learn from it.
+
+My goal is to build the kind of practical, investigative mindset you see in SOC analysts—being thorough, connecting dots, and letting the data tell the story. This repo is where I’m documenting that journey as I build the skills and habits that matter in real-world security work.
+
 My work here is a growing collection of hands-on labs, investigations, and notes. I’m deliberately building skills the way a SOC analyst actually works: digging through logs, looking at network traces, experimenting with detections, writing small tools, and trying to understand the story behind the data.
   
 [ATS-friendly resume attached](https://drive.google.com/file/d/1fs214UqyilLK5jyL8JovLEYuK0BGRKoQ/view?usp=sharing) | [Visual resume](https://drive.google.com/file/d/1Dh0Bu1-n2nbAyf4vx-eFGbIb-aR5_4Kw/view?usp=sharing)
