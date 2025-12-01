@@ -1,6 +1,6 @@
 ## Hi, I’m Peter!👋
 
-I’m a Senior Technical Writer shifting my career toward cybersecurity, something I’ve slowly gravitated to after years of breaking down systems, documenting behavior, and asking “why did it do that?” for a living. Writing has always forced me to understand technology on a deeper level; now I’m applying that same curiosity to security analysis, threat detection, and incident response.
+I’m a Senior Technical Writer, with a background in web development, shifting my career toward cybersecurity, something I’ve slowly gravitated to after years of breaking down systems, documenting behavior, and asking “why did it do that?” for a living. Writing has always forced me to understand technology on a deeper level; now I’m applying that same curiosity to security analysis, threat detection, and incident response.
 
 I’ve always had a habit of taking things apart—sometimes literally, sometimes just to understand why a system behaves the way it does. Over time, that curiosity pulled me deeper into cybersecurity. I found myself looking at logs, network traffic, and weird little system quirks just to figure out “what’s actually going on here?”
 
