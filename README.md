@@ -8,7 +8,7 @@ I’m Security+ certified and have completed the Google Cybersecurity Profession
 
 My goal is to keep developing the analytical habits used in security operations: digging through logs, correlating events, examining network traces, experimenting with detections, and understanding how system signals relate to real behavior. This repo is simply the place where I document that learning journey and keep track of what I’ve worked on.
   
-[ATS-friendly resume attached](https://drive.google.com/file/d/1fs214UqyilLK5jyL8JovLEYuK0BGRKoQ/view?usp=sharing) | [Visual resume](https://drive.google.com/file/d/1Dh0Bu1-n2nbAyf4vx-eFGbIb-aR5_4Kw/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1Dh0Bu1-n2nbAyf4vx-eFGbIb-aR5_4Kw/view?usp=sharing)
 
 ---
 
