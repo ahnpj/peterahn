@@ -1,14 +1,12 @@
 ## Hi, I’m Peter!
 
-I’m a Senior Technical Writer with roots in web development, and I’m now moving my career toward cybersecurity, something I’ve gradually gravitated to after years of breaking down systems, documenting behavior, and asking “why did it do that?” for a living. Writing has always required me to understand technology on a deeper level, and now I’m applying that same curiosity to security analysis, threat detection, and incident response.
+I'm a technical documentation and systems analyst who spends a lot of time understanding how things work under the hood—why systems behave the way they do, how issues happen, and what the data behind them actually means. Over the years, that curiosity naturally expanded into areas like log analysis, system triage, network traffic, and security fundamentals.
 
-I’ve always had a habit of taking things apart—sometimes literally, sometimes just to understand why a system behaves the way it does. Over time, that curiosity pulled me deeper into cybersecurity. I found myself looking at logs, network traffic, and weird little system quirks just to figure out “what’s actually going on here?”
+This repository is where I work through hands-on labs, small investigations, detection ideas, and scripts that help me strengthen my understanding of system behavior and security concepts. Everything here is something I walked through step-by-step so I could understand the “why” behind what’s happening—not just follow instructions.
 
-This repository is basically the result of that curiosity turning into a real career direction. I’m working through hands-on labs, small investigations, detection ideas, and scripts that help me understand security from the ground up. Nothing here is a quick copy-paste; each project is something I walked through step by step so I could actually learn from it.
+I’m Security+ certified and have completed the Google Cybersecurity Professional Certificate, along with a range of security labs and learning paths focused on SIEM analysis, Windows/Linux internals, and Python scripting. I prefer learning by doing, so most of the work here reflects practical exercises rather than passive study.
 
-My goal is to build the kind of practical, investigative mindset you see in SOC analysts—being thorough, connecting dots, and letting the data tell the story. This repo is where I’m documenting that journey as I build the skills and habits that matter in real-world security work.
-
-My work here is a growing collection of hands-on labs, investigations, and notes. I’m deliberately building skills the way a SOC analyst actually works: digging through logs, looking at network traces, experimenting with detections, writing small tools, and trying to understand the story behind the data.
+My goal is to keep developing the analytical habits used in security operations: digging through logs, correlating events, examining network traces, experimenting with detections, and understanding how system signals relate to real behavior. This repo is simply the place where I document that learning journey and keep track of what I’ve worked on.
   
 [ATS-friendly resume attached](https://drive.google.com/file/d/1fs214UqyilLK5jyL8JovLEYuK0BGRKoQ/view?usp=sharing) | [Visual resume](https://drive.google.com/file/d/1Dh0Bu1-n2nbAyf4vx-eFGbIb-aR5_4Kw/view?usp=sharing)
 
