@@ -6,7 +6,7 @@ This repository is where I work through hands-on labs, small investigations, det
 
 I’m Security+ certified and have completed the Google Cybersecurity Professional Certificate, along with a range of security labs and learning paths focused on SIEM analysis, Windows/Linux internals, and Python scripting. I prefer learning by doing, so most of the work here reflects practical exercises rather than passive study.
 
-My goal is to keep developing the analytical habits used in security operations: digging through logs, correlating events, examining network traces, experimenting with detections, and understanding how system signals relate to real behavior. This repo is simply the place where I document that learning journey and keep track of what I’ve worked on.
+My goal is to keep developing the analytical habits used in security operations: digging through logs, correlating events, examining network traces, experimenting with detections, and understanding how system signals relate to real behavior. This repo is simply the place where I document that learning journey and keep track of what I’ve worked on. 
   
 [Resume](https://drive.google.com/file/d/1SYtgvSbo3bs9vm5KlT6HAU0wfedNkQyD/view)
 
