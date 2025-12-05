@@ -87,7 +87,7 @@ No filler. No “completed module” dumps. Just the work itself.
 
 ## Technical Experience
 
-Much of my learning comes from building, breaking, and analyzing small environments on my own: Windows and Linux VMs, Sysmon and event logs, Wireshark captures, Splunk instances, Python scripts for parsing or filtering data, and command-line tooling. I like understanding how something behaves both when it works and when it’s being misused—that contrast is where security gets interesting.
+Much of my learning comes from building, breaking, and analyzing small environments on my own: Windows and Linux VMs, Sysmon and event logs, Wireshark captures, Splunk instances, Python scripts for parsing or filtering data, and command-line tooling. I like understanding how something behaves both when it works and when it’s being misused. That contrast is where security gets interesting.
 
 ---
 
