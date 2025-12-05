@@ -14,9 +14,9 @@ My goal is to keep developing the analytical habits used in security operations:
 
 <b>About Me</b>
 
-I’m CompTIA Security+ certified and completed the Google Cybersecurity Professional Certificate. I’ve also worked through TryHackMe material and several blue-team–focused courses, but I prefer learning through doing, not just watching or reading, and most of this repository reflects that approach.
+I’m CompTIA Security+ certified and completed the Google Cybersecurity Professional Certificate. I’ve also worked through TryHackMe material and several blue-team–focused courses, but I prefer learning by doing rather than just watching or reading. Most of this repository reflects that hands-on approach.
 
-Coming from a writing background, clear thinking and clear communication have always been at the center of my work. That shows up in how I structure my labs, why I annotate things heavily, and how I try to explain the “why” behind every step. The goal isn’t to copy a walkthrough; it’s to show how I reason through something.
+Coming from a writing background, clear thinking and clear communication have always been at the center of my work. That shows up in how I structure my labs, annotate them, and explain the “why” behind each step. The goal isn’t to copy a walkthrough—it’s to demonstrate how I reason through a problem and what I learn along the way.
 
 ---
 
