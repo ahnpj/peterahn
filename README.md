@@ -1,4 +1,4 @@
-## Hi, I’m Peter!👋
+## Hi, I’m Peter!
 
 I’m a Senior Technical Writer with roots in web development, and I’m now moving my career towardcybersecurity, something I’ve gradually gravitated to after years of breaking down systems, documenting behavior, and asking “why did it do that?” for a living. Writing has always required me to understand technology on a deeper level, and now I’m applying that same curiosity to security analysis, threat detection, and incident response.
 
