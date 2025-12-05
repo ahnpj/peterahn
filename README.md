@@ -22,7 +22,7 @@ Coming from a writing background, clear thinking and clear communication have al
 
 <b>What I’m Working Toward</b>
 
-I’m building toward a blue-team role where I can analyze logs, investigate alerts, work with SIEM data, and help turn confusing behavior into something understandable and actionable. I’m especially interested in how attackers move, how defenders detect them, and how small pieces of data can reveal a much bigger story.
+I enjoy work that involves analyzing logs, investigating unusual system behavior, exploring SIEM data, and understanding how small signals connect into a bigger picture. I’m especially interested in how attackers move, how defenders detect them, and how different pieces of data can reveal the deeper story behind an event.
 
 ---
 
