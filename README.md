@@ -91,7 +91,7 @@ Much of my learning comes from building, breaking, and analyzing small environme
 
 ---
 
-## 🛠️ Exposure & Learning Experience
+## Exposure & Learning Experience
 
 - Virtual machines (Linux, Windows) in labs  
 - Basic scripting practice in Python  
