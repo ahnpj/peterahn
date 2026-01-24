@@ -67,9 +67,11 @@ Much of this work is built around small test environments using Windows and Linu
 
 ### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- [TryHackMe](https://tryhackme.com/p/your-profile)  
-- peterjihyunahn@gmail.com  
+| Contact | Link |
+|--------|------|
+| Resume | https://drive.google.com/file/d/1SYtgvSbo3bs9vm5KlT6HAU0wfedNkQyD/view |
+| LinkedIn | https://www.linkedin.com/in/your-link-here |
+| Email | peterjihyunahn@gmail.com |
 
 ---
 
