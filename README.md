@@ -1,4 +1,4 @@
-## Hi, I’m Peter
+### Hi, I’m Peter
 
 I’m a technical documentation and systems analyst transitioning into security operations, with a strong focus on understanding how systems behave under normal and malicious conditions, and how those behaviors surface through logs, telemetry, and investigative signals.
 
@@ -10,37 +10,28 @@ This repository serves as a personal workspace where I document investigations, 
   
 ---
 
-## How I Approach Security Work
-
+### How I Approach Security Work
 
 I prefer learning by direct analysis rather than following walkthroughs. Most of what you’ll find here reflects work that I performed step by step to understand:
-
 
 - how system activity is recorded in logs and telemetry
 - how suspicious behavior differs from normal operational noise
 - how multiple weak signals can correlate into meaningful findings
 - how analysts document, validate, and communicate conclusions
 
-
 Because of my writing background, I place a strong emphasis on:
-
 
 - clearly documenting investigation steps
 - explaining reasoning and decision points
 - structuring findings so they can be reviewed or handed off to others
 
-
 The goal is not just to reach an answer, but to show how the answer was reached.
-
 
 ---
 
-
-## Areas of Focus
-
+### Areas of Focus
 
 My primary technical interests align with day-to-day SOC and detection engineering work:
-
 
 - SIEM log analysis and investigation pivots
 - Endpoint triage and persistence mechanisms
@@ -48,14 +39,11 @@ My primary technical interests align with day-to-day SOC and detection engineeri
 - Detection logic development and tuning
 - Mapping activity to adversary techniques and security frameworks
 
-
 Much of this work is built around small test environments using Windows and Linux systems, host and network telemetry, and log analysis platforms, combined with scripting where automation or enrichment is useful.
-
 
 ---
 
-
-## Certifications
+### Certifications
 
 | Provider | Certification | Status |
 |--------|--------------|--------|
@@ -65,7 +53,7 @@ Much of this work is built around small test environments using Windows and Linu
 
 ---
 
-## Professional Development (Ongoing)
+### Professional Development (Ongoing)
 
 | Platform | Track | Focus Areas |
 |--------|-------|------------|
@@ -77,7 +65,7 @@ Much of this work is built around small test environments using Windows and Linu
 
 ---
 
-## Connect
+### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/your-link-here)  
 - [TryHackMe](https://tryhackme.com/p/your-profile)  
