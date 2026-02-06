@@ -1,6 +1,6 @@
 ### Hi, I’m Peter
 
-I’m a technical documentation and systems analyst transitioning into security operations, with a strong focus on understanding how systems behave under normal and malicious conditions, and how those behaviors surface through logs, telemetry, and investigative signals.
+I’m a technical documentation specialist and systems analyst transitioning into security operations, with a strong focus on understanding how systems behave under normal and malicious conditions, and how those behaviors surface through logs, telemetry, and investigative signals.
 
 My background in documentation and systems analysis means I spend a lot of time asking *why* things happen, not just *what* happened. Over time, that curiosity naturally expanded into areas like log analysis, endpoint triage, network traffic inspection, and detection development.
 
