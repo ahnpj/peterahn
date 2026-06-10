@@ -1,8 +1,6 @@
 ### Hi, I'm Peter
 
-I'm a technical documentation specialist and systems analyst with a growing focus on security operations, detection engineering, and cloud security.
-
-My background in documentation and systems analysis means I spend a lot of time asking *why* things happen, not just *what* happened. Over time, that curiosity naturally expanded into cybersecurity, where understanding how systems behave is essential for detecting, investigating, and responding to security events.
+I spend a lot of time asking *why* things happen, not just *what* happened. Over time, that curiosity naturally expanded into cybersecurity, where understanding how systems behave is essential for detecting, investigating, and responding to security events.
 
 I hold the CompTIA Security+ certification and have completed the Google Cybersecurity Professional Certificate, along with a range of practical labs and learning paths focused on security operations, digital forensics, incident response, detection engineering, and cloud security fundamentals. I prefer learning by doing, so most of the work here reflects hands-on investigations, operational workflows, and technical exercises rather than passive study.
 
@@ -77,7 +75,7 @@ Much of this work is built around Windows and Linux systems, host and network te
 
 | Contact  | Link                                                        |
 | -------- | ----------------------------------------------------------- |
-| LinkedIn | https://www.linkedin.com/in/your-link-here                  |
+<!--| LinkedIn | https://www.linkedin.com/in/your-link-here                  |-->
 | Email    | [peterjihyunahn@gmail.com](mailto:peterjihyunahn@gmail.com) |
 
 ---
